@@ -1,0 +1,61 @@
+/*TAGS*/
+body{
+	margin: 0;
+	overflow-x: hidden;
+	overflow-y: hidden;
+	color: white;
+}
+h1{
+	margin-top: 20%;
+}
+p{
+	margin: 10%;
+}
+
+/*classes*/
+.navtxt{
+	text-transform: uppercase;
+	
+}
+
+.row{
+	width: 102%;
+
+}
+.maindiv{
+	
+	background: #c0392b;
+	margin: 0;
+	padding: 0;
+	height: 100vh;
+	position:relative;
+	
+}
+/*DIV OF SCROLL BTN*/
+.scrl{
+	position:absolute;
+	bottom: 0;
+	width: 100%;
+}
+.mcol{
+	text-align: center;
+	height: 100vh;
+	padding: 0;
+	
+
+}
+/*ALL BTN*/
+.mbtn{
+	background: rgba(0, 0, 0, 0.8);
+	color: white;
+	border: 0;
+}
+.wikibtn{
+	color: white;
+	background: transparent;
+}
+/*FOR IMAGES*/
+.imgc{
+
+	height: 100vh;
+}
